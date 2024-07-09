@@ -1,0 +1,16 @@
+[
+  {
+    "montoBase": 2021.0,
+    "conversion_rate": 918.92,
+    "conversion_result": 1857137.32,
+    "base_code": "USD",
+    "target_code": "ARS"
+  },
+  {
+    "montoBase": 555588.0,
+    "conversion_rate": 0.1361,
+    "conversion_result": 75615.5268,
+    "base_code": "UYU",
+    "target_code": "BRL"
+  }
+]
